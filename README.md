@@ -1,2 +1,2 @@
 # HelloKhhong
-Just Test
+한글 시험입니다.
